@@ -34,3 +34,15 @@ Data Explained:
 - soi_pop: This dataset describe population information of origins and destinations, for gravity model use, data from [2] and [3]
   
 - unemp.1: Contains employment and labor force, generated using data source [4]
+
+Code Explained:
+
+- Final Project (1) generates results for migration, social outcomes, industry. This file contains OLS, gravity model for migration, social outcomes, and industry outcomes, as well as event study for migration and social outcome variables.
+
+- Final Project (2) solely contains event study for industry.
+
+- Follow codes in Table file, one can replicate the tables in the paper.
+
+
+
+
